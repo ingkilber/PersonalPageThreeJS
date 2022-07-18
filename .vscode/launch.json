@@ -1,0 +1,15 @@
+{
+    // Utilice IntelliSense para conocer los posibles atributos.
+    // Pase el cursor para ver las descripciones de los atributos existentes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome", // antes "pwa-chrome"
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

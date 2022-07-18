@@ -1,0 +1,113 @@
+La Crepperia
+2022
+
+Web Developer
+
+Sitio web de comercio electrónico
+desarrollado y diseñado desde cero 
+para la empresa Tilda Exchange 
+en función de sus requisitos...
+
+haga clic en la cartelera para visitar
+
+---------------------------------------
+
+Market Trick NFTs
+2021 - 2022
+
+FrontEnd Developer
+
+El primer y más grande mercado digital 
+de Argentina para tokens no fungibles (NFT).
+
+- ReactJS FrontEnd
+- NodeJS BackEnd
+- HTML / CSS
+- SCSS o Sass
+- Responsive design
+
+haga clic en la cartelera para visitar
+
+----------------------------------------
+
+Juego de Memoria
+2022
+
+Project Gamer
+
+Juego de encontrar parejas iguales,
+hecho como ejercicio de un proyecto 
+para aprender a usar APIs...
+
+ReactJS FrontEnd
+REST API
+
+haga clic en la cartelera para visitar
+
+--------------------
+
+Gráfica Didot
+2022
+
+Web Developer
+
+Sitio web de comercio dedicada 
+a la operatoria de comercio exterior internacional. 
+Importamos productos de tecnología del primer mundo, 
+trayéndolos a la Argentina....
+
+haga clic en la cartelera para visitar
+
+----------------------------
+
+Multiples Archivos PHP
+2019
+
+Developer PHP
+
+Scripts PHP para subir archivos ha sido creado 
+con PHP y JavaScript. Una de las principales 
+ventajas es que te permite subir archivos múltiples 
+a un servidor sin ninguna dificultad.
+
+haga clic en la cartelera para visitar
+
+------------------------
+
+Portafolio con ThreeJS
+2022
+
+Programmer 3D
+
+Este es un proyecto de practica! ya que Decidí 
+renovar mi portafolio en un mundo 3D interactivo 
+construido usando Three.js para gráficos y Ammo.js, 
+un puerto del motor de física Bullet para JavaScript. 
+¡Me lo pasé genial haciendo esto!
+
+haga clic en la cartelera para visitar
+
+--------------------------------------------
+
+Desarrollador web front-end apasionado, enfocado 
+en crear, probar y optimizar aplicaciones web completas 
+con interfaces de usuario atractivas que se ejecutan en 
+navegadores web, en cualquier dispositivo, desde computadoras 
+de escritorio hasta tabletas y teléfonos celulares
+
+---------------------------------------
+
+Utilice las teclas de flecha en su
+teclado para moverse.
+
+
+
+
+
+
+
+
+
+
+
+
