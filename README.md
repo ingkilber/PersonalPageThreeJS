@@ -4,6 +4,9 @@ This is my first portfolio made in ThreeJS, based on workshops and tutorials, wi
 
 Image home:
 
+![](https://github.com/ingkilber/PersonalPageThreeJS/blob/main/Kilber-Marcano.png)
+
+
 ## Motivation
 
 While exploring [Google Experiments](https://experiments.withgoogle.com/) I discovered an amazing world of web rendering. There are so many incredible web projects out there, and I wanted to learn this technology. I was inspired by many awesome projects, but specifically examples from the [official examples/documentation](https://threejs.org/), [Lee Stemkoski](https://home.adelphi.edu/~stemkoski/) and [Three.js Fundamentals](https://threejsfundamentals.org/).
